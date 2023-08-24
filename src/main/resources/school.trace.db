@@ -1,0 +1,9 @@
+2023-07-13 07:20:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]upadate student set standard = ? where studentId = ?"; expected "UPDATE, USE"; SQL statement:
+upadate student set standard = ? where studentId = ? [42001-214]
+2023-07-13 07:21:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]upadate student set standard = ? where studentId = ?"; expected "UPDATE, USE"; SQL statement:
+upadate student set standard = ? where studentId = ? [42001-214]
+2023-07-13 07:21:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]upadate student set standard = ? where studentId = ?"; expected "UPDATE, USE"; SQL statement:
+upadate student set standard = ? where studentId = ? [42001-214]
